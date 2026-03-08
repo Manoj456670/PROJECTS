@@ -1,0 +1,32 @@
+.main-container {
+  font-family: Arial, sans-serif;
+  text-align: center;
+  color: white;
+  background-color: #242424;
+  min-height: 100vh;
+}
+
+.navbar {
+  padding: 20px;
+  background: #1a1a1a;
+  border-bottom: 1px solid #333;
+}
+
+.hero-section {
+  padding: 100px 20px;
+}
+
+.button-group {
+  margin-top: 20px;
+}
+
+button {
+  margin: 10px;
+  padding: 12px 24px;
+  border-radius: 8px;
+  cursor: pointer;
+  border: none;
+}
+
+.primary-btn { background-color: #646cff; color: white; }
+.secondary-btn { background-color: #333; color: white; border: 1px solid #646cff; }
