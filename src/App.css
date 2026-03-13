@@ -1,3 +1,7 @@
+*{
+  width: auto;
+  height: auto;
+}
 .main-container {
   font-family: Arial, sans-serif;
   text-align: center;
@@ -13,7 +17,7 @@
 }
 
 .hero-section {
-  padding: 100px 20px;
+  flex-grow: 1;
 }
 
 .button-group {
