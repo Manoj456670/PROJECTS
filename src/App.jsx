@@ -11,7 +11,7 @@ function App() {
         <h1>Welcome to My Project</h1>
         <p>Currently Interning at ASAE LLP</p>
         <div className="button-group">
-          <button className="primary-btn">View My Work</button>
+          <a className="primary-btn" href="https://github.com/Manoj456670">View My Work</a>
           <button className="secondary-btn">Contact Me</button>
         </div>
       </header>

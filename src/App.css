@@ -20,11 +20,11 @@
   flex-grow: 1;
 }
 
-.button-group {
+.a-group {
   margin-top: 20px;
 }
 
-button {
+a {
   margin: 10px;
   padding: 12px 24px;
   border-radius: 8px;
